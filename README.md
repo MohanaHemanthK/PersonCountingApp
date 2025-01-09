@@ -9,7 +9,6 @@ This project implements an object detection and tracking system using YOLOv8 and
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Installation
 
